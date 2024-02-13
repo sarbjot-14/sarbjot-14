@@ -29,26 +29,22 @@
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Description</b></td>
+      <td><b>Description</b></td>
 
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/sarbjot-14/amazon-clone"><b> Amazon Clone</b></a></td>
+      <td>Amazon Clone to learn about microservices and full stack development using .NET and Angular</td>
 
     </tr>
 	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/sarbjot-14/yt-clone"><b>Youtube Clone</b></a></td>
+      <td>Youtube Clone created to practice web developement using Next.js</td>
 
     </tr>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
 
-    </tr>
   </tbody>
 </table>
 <h3>Sports I love playing</h3>
@@ -60,11 +56,5 @@
       <li>Pickleball</li>
   
 </ul>
-<h3> I also post on Youtube!</h3>
-<div style="background-color: #FF0000; color: white; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com" target="_blank" style="text-decoration: none; color: white; display: flex; align-items: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube Logo" width="40" height="40" style="margin-right: 10px;">
-    YouTube
-  </a>
-</div>
+
 
