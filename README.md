@@ -27,7 +27,7 @@
 <h3>Some of my personal projects</h3>
 <table>
   <thead align="center">
-    <tr> border: none;>
+    <tr border: none;>
       <td><b>🎁 Projects</b></td>
       <td><b>Description</b></td>
 
@@ -39,7 +39,7 @@
       <td>Amazon Clone to learn about microservices and full stack development using .NET and Angular</td>
 
     </tr>
-	    <tr> 
+<tr> 
       <td><a href="https://github.com/sarbjot-14/yt-clone"><b>Youtube Clone</b></a></td>
       <td>Youtube Clone created to practice web developement using Next.js</td>
 
