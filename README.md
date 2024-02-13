@@ -53,4 +53,10 @@
   
 </ul>
 
+<a href="https://www.youtube.com">
+  <div class="youtube-badge">
+    <img src="https://logo.youtube.com/svg/logos/yt_logo_mono.svg" alt="YouTube logo">
+  </div>
+</a>
+
 
