@@ -26,13 +26,7 @@
 </p>
 <h3>Some of my personal projects</h3>
 <table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>Description</b></td>
 
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/sarbjot-14/amazon-clone"><b> Amazon Clone</b></a></td>
