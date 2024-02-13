@@ -29,33 +29,25 @@
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
+      <td><b>⭐ Description</b></td>
+
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+
     </tr>
 	  <tr>
       <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+
     </tr>
     <tr>
       <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+
     </tr>
   </tbody>
 </table>
@@ -68,9 +60,9 @@
       <li>Pickleball</li>
   
 </ul>
-<h3> width="13"/>I also post on Youtube!</h3>
+<h3> I also post on Youtube!</h3>
 <p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
-<p>See some of my projects here<a href="https://www.youtube.com/channel/UCmXsMncmGYzT4cAoB9rsF0A" target="_blank"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAilBMVEX/////AAD/wcH/lpb/0tL/zMz/lJT/9fX/8PD/kJD/xMT/3t7/4eH/srL/mJj/+fn/qKj/W1v/i4v/cHD/JSX/trb/z8//vLz/7Oz/2dn/o6P/n5//m5v/5ub/e3v/ODj/T0//Pj7/UFD/XFz/LCz/Zmb/hIT/GRn/fX3/RET/ra3/ERH/MDD/Y2PciEoRAAAEPElEQVR4nO2ciVaqUBSGuQgOCOIEzqamltp9/9e7cStzIGux/805tv7vAVp8q4I9Ow4hhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhMS1+ixsjjzfD9xBEkX79ngynbZalUq1kVGtVFqt6WQ8bu+jJBkEvp+OmuGsXotNP3k+9dALknarO+89Lh76hz9CDv2HRaf33Gi1k8AL6wbFhmlU7a3WUqHvWXfmlSgdlmuXNhb6Zpcst4NaSX7T8u0+WAxK8Gub88s4uMp+taVZwVc6qm/ckWm9/4R6gp5pt3dGWoKhabMjMx3B2LTXCTqGj6a1TthoCAamrc7wFQyfTEud8YIXdE07XYD/Ja5MK10A/0+smTa6Am04MC10RQo23JoWuqIFNlyaFrqiAzY07ZMDVtCekPQTbGHDtq9hBvaLODGtk0Mbajg3rZPDM9TQtogmYwU1FBd6FXiCGpq2yQUpWDctkwuy5N80LZNLE2jom5bJBflBTCTPoZaWJEDDseA5XMfpwqTOGAMNG4LnyBoNww5M64Qu0PBZ8BxvrZS0DxM7MgcabgTP8dEswjet/gINJUHbZztM8peQxwJo+CB4jpOG3wzbOkbWTCXV4LOWZgANcIGGkse4aNoiM007DZ24hxK01fA1yl1aZyjqHOaNFoACOdz0iSh5yh+eqCIMcdW2Id7QqUuiiHdwze6ZgqHjeC9SQ9xQhigBvjHiEwkNcTMZojGam0NMsrzKgxmK5mhuj2mJ8iqcYapn6Dh+8bwK10IUlWm+H7UrnFfhCjXKhk5cMK8KYIaiUZofjUsWy6vuybBYKeieDItFOHdkWCn2o3GGym+awpkG7l2q+j0UZIu476FiTFOTZPz3ELXJNhtwkbdWbuEKK2+49ppOfhjuZH62Z8AxYLwDV8VQqNNI+nVHcG1ueK0twIxUA7dnsIaw9gVOEGuIa0HZaYhsIwINJd+tM0NByeKaPtAQ1D8Et/OXQEPJq+HTED0rjhzdQ/Tx9zCzD5ArF5L4483QU9j6Rg6YSkrTmWFdZe+tCjS0cyYKOQZt51wbcnXdztlE5F6QnfOlyJ1uO2eEoUckTMvkghS00hAZlsrCNi2wy2s27sxsoYYGL7Z8CXbv6ffvrv3+/UMbX6ZYQVGWrwN2dc3GXW5k7pRh3z4++mzE77+pYN0W6SPc0LYvosJVM7vu0xzwgpbdGFI5vqeyf1aQnYagVbe+lK5+2hOcom/THLHl5p7iBUw7am4al8yOxObLGX2lk4JHJOVvBFNlv4x9CceDv6JS0rnosL0xEOEsGmqv0Hya7ni72ZVw9GS9MnAM+pR42PTdaFzdzjed3Vr+u3076D3vmj/ofYO4NpyFTS/1/eNN9sn1TfZJdpM9SgZu4Pue1UfZCSGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGl8g/A/VsMI7KqJAAAAABJRU5ErkJggg==" width="20"/> @visitstockholm!</a><br/>Currently, the weather is: <b> -1°C, <i>snow</i></b></br>Today, the sun rises at <b>07:30</b> and sets at <b>16:33</b>.</p>
+<p>See some of my projects here<a href="https://www.youtube.com/channel/UCmXsMncmGYzT4cAoB9rsF0A" target="_blank"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAilBMVEX/////AAD/wcH/lpb/0tL/zMz/lJT/9fX/8PD/kJD/xMT/3t7/4eH/srL/mJj/+fn/qKj/W1v/i4v/cHD/JSX/trb/z8//vLz/7Oz/2dn/o6P/n5//m5v/5ub/e3v/ODj/T0//Pj7/UFD/XFz/LCz/Zmb/hIT/GRn/fX3/RET/ra3/ERH/MDD/Y2PciEoRAAAEPElEQVR4nO2ciVaqUBSGuQgOCOIEzqamltp9/9e7cStzIGux/805tv7vAVp8q4I9Ow4hhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhMS1+ixsjjzfD9xBEkX79ngynbZalUq1kVGtVFqt6WQ8bu+jJBkEvp+OmuGsXotNP3k+9dALknarO+89Lh76hz9CDv2HRaf33Gi1k8AL6wbFhmlU7a3WUqHvWXfmlSgdlmuXNhb6Zpcst4NaSX7T8u0+WAxK8Gub88s4uMp+taVZwVc6qm/ckWm9/4R6gp5pt3dGWoKhabMjMx3B2LTXCTqGj6a1TthoCAamrc7wFQyfTEud8YIXdE07XYD/Ja5MK10A/0+smTa6Am04MC10RQo23JoWuqIFNlyaFrqiAzY07ZMDVtCekPQTbGHDtq9hBvaLODGtk0Mbajg3rZPDM9TQtogmYwU1FBd6FXiCGpq2yQUpWDctkwuy5N80LZNLE2jom5bJBflBTCTPoZaWJEDDseA5XMfpwqTOGAMNG4LnyBoNww5M64Qu0PBZ8BxvrZS0DxM7MgcabgTP8dEswjet/gINJUHbZztM8peQxwJo+CB4jpOG3wzbOkbWTCXV4LOWZgANcIGGkse4aNoiM007DZ24hxK01fA1yl1aZyjqHOaNFoACOdz0iSh5yh+eqCIMcdW2Id7QqUuiiHdwze6ZgqHjeC9SQ9xQhigBvjHiEwkNcTMZojGam0NMsrzKgxmK5mhuj2mJ8iqcYapn6Dh+8bwK10IUlWm+H7UrnFfhCjXKhk5cMK8KYIaiUZofjUsWy6vuybBYKeieDItFOHdkWCn2o3GGym+awpkG7l2q+j0UZIu476FiTFOTZPz3ELXJNhtwkbdWbuEKK2+49ppOfhjuZH62Z8AxYLwDV8VQqNNI+nVHcG1ueK0twIxUA7dnsIaw9gVOEGuIa0HZaYhsIwINJd+tM0NByeKaPtAQ1D8Et/OXQEPJq+HTED0rjhzdQ/Tx9zCzD5ArF5L4483QU9j6Rg6YSkrTmWFdZe+tCjS0cyYKOQZt51wbcnXdztlE5F6QnfOlyJ1uO2eEoUckTMvkghS00hAZlsrCNi2wy2s27sxsoYYGL7Z8CXbv6ffvrv3+/UMbX6ZYQVGWrwN2dc3GXW5k7pRh3z4++mzE77+pYN0W6SPc0LYvosJVM7vu0xzwgpbdGFI5vqeyf1aQnYagVbe+lK5+2hOcom/THLHl5p7iBUw7am4al8yOxObLGX2lk4JHJOVvBFNlv4x9CceDv6JS0rnosL0xEOEsGmqv0Hya7ni72ZVw9GS9MnAM+pR42PTdaFzdzjed3Vr+u3076D3vmj/ofYO4NpyFTS/1/eNN9sn1TfZJdpM9SgZu4Pue1UfZCSGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGl8g/A/VsMI7KqJAAAAABJRU5ErkJggg==" width="20"/> Youtube Page</a></p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/sarbjot-14" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
