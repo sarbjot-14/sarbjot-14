@@ -61,10 +61,10 @@
   
 </ul>
 <h3> I also post on Youtube!</h3>
-<div style="background-color: #FF0000; color: white; padding: 10px; border-radius: 5px;">
-  <a href="https://www.youtube.com/@sarbjotsingh9998" target="_blank" style="text-decoration: none; color: white;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube Logo" width="40" height="40">
-    Visit Page
+<div style="background-color: #FF0000; color: white; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com" target="_blank" style="text-decoration: none; color: white; display: flex; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube Logo" width="40" height="40" style="margin-right: 10px;">
+    YouTube
   </a>
 </div>
 
