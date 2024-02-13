@@ -53,10 +53,5 @@
   
 </ul>
 
-<a href="https://www.youtube.com">
-  <div class="youtube-badge">
-    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fe%2Fef%2FYoutube_logo.png&tbnid=U9N_wOS6bY-kJM&vet=12ahUKEwjPs4KYoqeEAxXDKjQIHbZVChwQMygDegQIARB2..i&imgrefurl=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AYoutube_logo.png&docid=TXEffTbUqnHPqM&w=640&h=443&q=youtube%20logo&ved=2ahUKEwjPs4KYoqeEAxXDKjQIHbZVChwQMygDegQIARB2" alt="YouTube logo">
-  </div>
-</a>
 
 
