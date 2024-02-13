@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Sarbjot, Fullstack developer from <img src="https://en.wikipedia.org/wiki/Canada#/media/File:Flag_of_Canada_(Pantone).svg" width="13"/> <b>Vancouver, Canada</b>. 
+<p>Welcome to my page! </br> I'm Sarbjot, Fullstack developer from <img src="https://w7.pngwing.com/pngs/413/78/png-transparent-canada-maple-leaf-canada-maple-leaf-maple-leaf-thumbnail.png" width="13"/> <b>Vancouver, Canada</b>. 
 <h3>Things I code with</h3>
 <p>
     <img alt=".Net" src="https://img.shields.io/badge/-.NET-blueviolet" />
